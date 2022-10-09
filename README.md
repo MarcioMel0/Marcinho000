@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcio
 - 👀 I’m interested in  programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript e C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: marciomelo774@gmail.com or https://www.linkedin.com/in/marcio-melo-789728166/
 <!---
